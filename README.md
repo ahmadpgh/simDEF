@@ -10,8 +10,8 @@ This study introduces simDEF, an efficient method for measuring semantic similar
 
 ## Availability
 
-These free codes can be used, modified and redistributed without any restrictions.
-Release date: September, 2015
+These free codes can be used, modified and redistributed without any restrictions.  
+Release date: September, 2015  
 Documentation: Please refer to the provided instruction file before use. (Highly recommended)
 
 ## Datasets for the evaluation
