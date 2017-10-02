@@ -11,15 +11,15 @@ This study introduces simDEF, an efficient method for measuring semantic similar
 ## Availability
 
 These free codes can be used, modified and redistributed without any restrictions.  
-Release date: September, 2015  
-Documentation: Please refer to the provided instruction file before use. (Highly recommended)
+Release date: _September, 2015_  
+Documentation: _Please refer to the provided instruction file before use. (Highly recommended)_
 
 ## Datasets for the evaluation
 
 The datasets built in the study and employed in the evaluation analyses include (see the 'EXPERIMENTAL DATA' section, 'Validation datasets' subsection for detail):
-1. Sequence Homology Data (20,167 protein pairs)
-2. Gene Expression Data (4,800 protein pairs)
-3. PPI Data (6,000 protein pairs)
+1. Sequence Homology Data (_20,167 protein pairs_)
+2. Gene Expression Data (_4,800 protein pairs_)
+3. PPI Data (_6,000 protein pairs_)
 
 ## Citation
 
