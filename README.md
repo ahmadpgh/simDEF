@@ -28,3 +28,8 @@ _Ahmad Pesaranghader; Stan Matwin; Marina Sokolova; Robert G. Beiko_
 Bioinformatics 2015;   
 doi: [10.1093/bioinformatics/btv755](https://doi.org/10.1093/bioinformatics/btv755)
 ([supplementary material file](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/32/9/10.1093_bioinformatics_btv755/2/btv755_Supplementary_Data.zip?Expires=1506981985&Signature=BtLozF2hn3DrvSPP5EbzxDAQZvIbcKbGrQ-R2kcvCy-ArKMdCwXWbLgKwHD6MQ4AxZACoW1tD1~tFmTqT52AlZ~5-JnFd99dDi77jA0-LfldtjCoWfV0u2uNSpzul9SL0BXWPocw4cxfaX~FBFKyBsY7v6um1bRqItAlqk9d70kX5mA40Vl-RLqUz6yxBVXHNllTBnQr0l2BB23LsyXIrwLEkzc5kQQes1TzRUqzUOCM9QLY7ZEhs3tZbsWBfTZPrBFMGwP3G~V9nJOdSs4vgabg3RnxqV7r9pmC-KPCP-AWWBjHKmr9Razf1qzJhum0v4lkGwKMftTDfCXI56TeSQ__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q))
+
+<br>
+<br>
+<sub>Ahmad Pesaranghader © 2015</sub>
+
