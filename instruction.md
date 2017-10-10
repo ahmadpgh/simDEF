@@ -65,4 +65,4 @@ In this stage you will calculate the cosine of the angel between two given GO te
 
 ## Future Questions
 
-We hope simDEF as well as this explanation will help you in your projects and studies. If you have any further question, please do not hesitate to email us (corresponding author: Ahmad Pesaranghader; email address: ahmad.pgh@dal.ca)
+We hope simDEF as well as this explanation will help you in your projects and studies. If you have any further question, please do not hesitate to email us (corresponding author: Ahmad Pesaranghader; email address: ahmad.pgh@dal.ca), or open an issue on GitHub regarding your doubt.
